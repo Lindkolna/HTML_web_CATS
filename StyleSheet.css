@@ -1,0 +1,51 @@
+﻿
+tr:hover {
+    background-color:coral
+}
+body
+{
+    background-color:floralwhite;
+}
+.topnav a {
+    font-family:'Century Gothic';
+    font-size:x-large;
+    color:brown;
+    float:inline-start;
+}
+.topnav a:hover {
+    background-color:coral;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    max-width: auto
+}
+
+.image {
+    flex-basis: 40%
+}
+
+.text {
+    color: brown;
+    font-size: 20px;
+    padding-left: 20px;
+}
+p2{
+color:coral; font-style:italic; font-family:'Californian FB'; font-size:x-large;
+}
+h2{
+    color:crimson; font-family:'Californian FB'; font-size:x-large;
+}
+p3{
+    color:black; font-family:'Century Gothic';
+}
+div.a{
+    text-align:center;
+    font-size: 22px;
+    margin-bottom:2em;
+    font-family:'Agency FB';
+}
